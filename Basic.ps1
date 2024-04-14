@@ -6,3 +6,7 @@ pwsh -ver
 
 Copy
 dotnet tool install --global PowerShell
+
+Get-Module
+
+Get-Help -Name Get-ChildItem -Detailed
